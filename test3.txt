@@ -1,1 +1,0 @@
-This is from test3.txt in Demo3 folder. I am adding this line to test the git merge command.
